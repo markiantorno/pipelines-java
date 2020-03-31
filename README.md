@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/markiantorno/LearningPipelines/_apis/build/status/markiantorno.pipelines-java?branchName=master)](https://dev.azure.com/markiantorno/LearningPipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
